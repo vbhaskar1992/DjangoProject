@@ -2,3 +2,5 @@ Welcome to the djangokitchen
 
 
 Chicken
+
+Thank your
