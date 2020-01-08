@@ -4,5 +4,7 @@ Welcome to the djangokitchen
 Chicken
 
 Added for new version
+
+New Dish
 =======
 Thank your
